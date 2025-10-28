@@ -61,7 +61,7 @@ Mental Health Prediction for Pregnant Women: Achieved 91.84% accuracy, highlight
 The research underscores the pivotal role of machine learning in addressing the multifaceted challenges posed by the COVID-19 pandemic. By providing accurate predictions and insights, machine learning aids in public health decision-making and preparedness for future health emergencies.
 
 #### Contact
-Email: kg4225@srmist.edu.in
+Email: esharai2121@gmail.com
 
 #### Future Work
 Explore additional biomarkers and meta-learning techniques for improved prediction accuracy.
