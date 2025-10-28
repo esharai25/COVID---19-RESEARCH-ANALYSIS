@@ -1,5 +1,4 @@
 # COVID---19-RESEARCH-ANALYSIS
-# Covid Based Analysis
 
 ## Machine Learning-Based Research for COVID-19 Analysis and Prediction
 
